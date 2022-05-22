@@ -1,0 +1,8 @@
+.about {
+  padding: 0 25px;
+}
+
+.about > p {
+  max-width: 280px;
+  color: rgba(255, 255, 255, 0.645);
+}
